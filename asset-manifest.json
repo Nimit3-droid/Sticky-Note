@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Sticky-Note/static/js/main.360a5883.js",
+    "index.html": "/Sticky-Note/index.html",
+    "main.360a5883.js.map": "/Sticky-Note/static/js/main.360a5883.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.360a5883.js"
+  ]
+}
