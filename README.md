@@ -1,15 +1,16 @@
 Deployed Link -> https://nimit3-droid.github.io/Sticky-Note/
-Steps to setup locally :
-cd Sticky-Note
-npm install
-npm start
+
+# Steps to setup locally :
+### `cd Sticky-Note`
+### `npm install`
+### `npm start`
 
 
-Code Structure
+# Code Structure
 
-Styles
-Components => AddNote.js, Filter.js, Note.js
-App.js
+## Styles
+## Components => AddNote.js, Filter.js, Note.js
+## App.js
 
 # Getting Started with Create React App
 
